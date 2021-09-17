@@ -7,6 +7,9 @@ Changed by Henock Zemenfes.
 =======
 
 # Lab3_013-02
+Project Team Members: Nicholas Mason
+changes to create merge conflict...
+=======
 Project Team Members: Peter Lee
 
 # Lab3_013-02  
@@ -27,3 +30,5 @@ changes to create merge conflict...
 
 
 Reviewed by Henock. 
+
+Also reviewed by Matthew - cadolmb
